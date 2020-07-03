@@ -1,0 +1,22 @@
+{
+  "name": "@lednhatkhanh/prettier-config",
+  "version": "0.0.1",
+  "description": "My shareable prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lednhatkhanh/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Khanh Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lednhatkhanh/prettier-config/issues"
+  },
+  "homepage": "https://github.com/lednhatkhanh/prettier-config#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
